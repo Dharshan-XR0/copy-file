@@ -25,6 +25,8 @@ The content in the original file will be copied in the new file.
 
 End the program.
 
+
+
 ## PROGRAM:
 ```python
 To write a program for copying the contents from one file to another file.
@@ -38,7 +40,9 @@ with open("data3.txt","w") as fp1:
 ```
 ### OUTPUT:
 ![output](/ExCR11.png)
+
 ![output](/ExCR11op.png)
+
 
 
 
